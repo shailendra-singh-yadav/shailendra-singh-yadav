@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailendra-singh-yadav
+- 👋 Hi, I’m @Shailendra-Singh
 - 👀 I’m interested in python
 - 🌱 I’m currently learning laravel 
 - 💞️ I’m looking to collaborate on python
